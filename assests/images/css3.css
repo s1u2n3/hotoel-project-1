@@ -1,0 +1,40 @@
+/* 
+.para{
+    color:yellow;
+    background-color: black;
+    font-size: 10px;
+    
+} */
+.para{
+    color:rgb(233, 17, 17) 8, 255;
+    /* background-color: black; */
+    font-size: 50px;
+}
+#para3{
+    color: violet;
+    background-color: turquoise;
+    text-transform: uppercase;
+}
+.span1{
+    border: 20px;
+}
+
+/* *img{
+    height: 1500px;
+    width: 1500px;
+    image-rendering: 1em;
+
+} */
+
+.alt{
+    image-rendering: 25px*25px;
+    height: 20px;
+    width:25px;
+}
+*div{
+font-size: 20px;
+}
+*section{
+    font-size: 1em;
+}
+
